@@ -16,7 +16,7 @@ pip install -e .
 ## Usage
 
 ```sh
-python3 file.py
+python3 <file.py>
 python3 -m pytest <test_*.py>
 ```
 
